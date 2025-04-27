@@ -19,6 +19,3 @@ This project showcases a basic house price dataset analysis performed using Micr
 
 ---
 
-> Built with Microsoft Excel (Office 365).  
-> This project is part of my Excel Specialist portfolio.
-
